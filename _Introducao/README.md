@@ -1,4 +1,5 @@
 ##PRINCIPAIS TÓPICOS DA LINGUAGEM JAVASCRIPT
+
 Para consulta
 
 #Declaração de Variáveis:
